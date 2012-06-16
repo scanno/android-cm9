@@ -291,6 +291,6 @@
 
   <project path="device/nvidia/shuttle" name="vegaics/android_device_nvidia_shuttle" remote="scanno" revision="refs/heads/master" />
 
-  <project path="android" name="scanno/android" remote="scanno" revision="refs/heads/master" />
+  <project path="android" name="scanno/android-cm9" remote="scanno" revision="refs/heads/master" />
 
 </manifest>
